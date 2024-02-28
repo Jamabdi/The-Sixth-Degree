@@ -103,7 +103,7 @@ function NewScript({ showModal, handleClose }) {
 
 
     // Jama's API Key
-    let apiKey = '30c198675e2638514ba7c9dc7212193c';
+    let apiKey = '';
 
 
     // Handle input field changes
