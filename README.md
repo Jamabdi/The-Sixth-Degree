@@ -29,9 +29,10 @@ After starting the application:
 1. React.js - Frontend framework.
 2. Redux - State management.
 3. Node.js - Backend server.
-4. Express - Server framework.
-5. PostgreSQL - Database management.
-6. The Movie Database Project(TMDB) - third-party API.
+4. Axios.js - Javascript library used to make HTTP requests from node.js
+5. Express - Server framework.
+6. PostgreSQL - Database management.
+7. The Movie Database Project(TMDB) - third-party API.
 
 ## Acknowledgments
 Thank you to Adam Arends and the Prime Academy staff for supporting us throughout this project.
